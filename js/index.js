@@ -96,7 +96,7 @@ const RES_TEXT = {
 const menuData = {
 
     ar: {
-        restaurantName: "مطعم الكرار ",
+        restaurantName: "مطعم الاخوين ",
         slogan: "متخصصون في أشهى المشاوي العربية",
         footer: "🕒 أوقات العمل: 7 صباحاً - 1 ليلاً | 📞 للحجز: 07810152077",
         categories: [
