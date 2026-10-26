@@ -1,5 +1,5 @@
 /* =========================================================
-   منيو مطعم الكرار + حجز طاولة عبر واتساب
+   منيو مطعم الاخوين + حجز طاولة عبر واتساب
    ========================================================= */
 
 
@@ -96,7 +96,7 @@ const RES_TEXT = {
 const menuData = {
 
     ar: {
-        restaurantName: "مطعم الاخوين ",
+        restaurantName: "مطعم الاخوين",
         slogan: "متخصصون في أشهى المشاوي العربية",
         footer: "🕒 أوقات العمل: 7 صباحاً - 1 ليلاً | 📞 للحجز: 07810152077",
         categories: [
@@ -132,9 +132,9 @@ const menuData = {
     },
 
     en: {
-        restaurantName: "Al-Karrar Restaurant",
+        restaurantName: "Al-Akhawayn Restaurant",
         slogan: "Specialized in the finest Arabic grills",
-        footer: "🕒 Opening hours: 7 AM - 1 AM | 📞 Reservation: 07800000000",
+        footer: "🕒 Opening hours: 7 AM - 1 AM | 📞 Reservation: 07810152077",
         categories: [
             {
                 title: "🍢 Grill Section",
@@ -168,9 +168,9 @@ const menuData = {
     },
 
     ku: {
-        restaurantName: "چێشتخانەی کەرار",
+        restaurantName: "چێشتخانەی الاخوين",
         slogan: "شارەزای باشترین برژاوە عەرەبییەکان",
-        footer: "🕒 کاتەکانی کار: ٧ی بەیانی - ١ی شەو | 📞 پەیوەندی: ٠٧٨٠٠٠٠٠٠٠٠",
+        footer: "🕒 کاتەکانی کار: ٧ی بەیانی - ١ی شەو | 📞 پەیوەندی: ٠٧٨١٠١٥٢٠٧٧",
         categories: [
             {
                 title: "🍢 بەشی برژاو",
